@@ -16,3 +16,5 @@ __pycache__/
 Relatorio_Temporario/
 *.zip
 *.xlsx
+
+.env
