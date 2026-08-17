@@ -2,3 +2,4 @@ playwright==1.42.0
 Office365-REST-Python-Client==2.5.1
 customtkinter==5.2.2
 schedule==1.2.1
+python-dotenv==1.0.1
